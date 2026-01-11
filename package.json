@@ -17,5 +17,8 @@
 	"bugs": {
 		"url": "https://github.com/Gilson-Nunes/template-basic-auth/issues"
 	},
-	"homepage": "https://github.com/Gilson-Nunes/template-basic-auth#readme"
+	"homepage": "https://github.com/Gilson-Nunes/template-basic-auth#readme",
+	"devDependencies": {
+		"typescript": "^5.9.3"
+	}
 }

@@ -4,6 +4,7 @@
 	"description": "authentication template with basic auth",
 	"main": "index.js",
 	"scripts": {
+		"check": "npx biome check --write --unsafe",
 		"test": "vitest"
 	},
 	"repository": {

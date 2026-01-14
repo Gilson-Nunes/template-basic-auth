@@ -21,6 +21,7 @@
 	"homepage": "https://github.com/Gilson-Nunes/template-basic-auth#readme",
 	"devDependencies": {
 		"@biomejs/biome": "^2.3.11",
+		"@types/bcrypt": "^6.0.0",
 		"@types/node": "^25.0.6",
 		"tsx": "^4.21.0",
 		"typescript": "^5.9.3",
@@ -28,6 +29,7 @@
 		"vitest": "^4.0.16"
 	},
 	"dependencies": {
+		"bcrypt": "^6.0.0",
 		"fastify": "^5.6.2"
 	}
 }
